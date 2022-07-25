@@ -45,3 +45,13 @@ pip install ffmpeg
 ```
 pip install imageio-ffmpeg
 ```
+
+## Running the experiment
+
+Once everything is properly installed, in order to start working on any of these challenges, you need to start Jupyter notebook with the following command :
+
+```
+jupyter notebook
+```
+
+Once this is done, a new tab should open in your browser. Just navigate to where the root of the project is, and open the desired notebook.
